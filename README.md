@@ -10,4 +10,4 @@ An assistant for mobile quiz games running on Android. It does NOT play for you,
 * OCR benchmark to test performance with different PCs
 * ADB and fastboot
 ### How to install and use
-Check the wiki
+Check the wiki: https://github.com/benjimaestro/ggPoltergeist/wiki
