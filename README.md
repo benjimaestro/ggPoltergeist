@@ -4,7 +4,7 @@ An assistant for mobile quiz games running on Android. It does NOT play for you,
 Check the wiki: https://github.com/benjimaestro/ggPoltergeist/wiki
 ### Prerequisites
 * An Android device or emulator with USB debugging enabled
-* ADB and fastboot installed and added to PATH (ZIP includes ADB and fastboot installer)
+* ADB and fastboot installed and added to PATH
 * A PC which isn't total garbage
 * A decent internet connection
 ### Program includes
